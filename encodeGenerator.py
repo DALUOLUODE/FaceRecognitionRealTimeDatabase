@@ -6,8 +6,8 @@ from supabase import create_client, Client
 
 
 # Supabase 项目的基本信息
-SUPABASE_URL = "https://lheqmfatlqoulgavjlan.supabase.co"  # 替换为你的 Project URL
-SUPABASE_SERVICE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxoZXFtZmF0bHFvdWxnYXZqbGFuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MDkyMDkyNSwiZXhwIjoyMDU2NDk2OTI1fQ.jvDO0Rm-HLCyNDTVbvSfqY6ckvTB_cyr-SI8p8_vFxs"          # 替换为你的 service_role 密钥
+SUPABASE_URL = "https://hahahhaha.supabase.co"  # 替换为你的 Project URL
+SUPABASE_SERVICE_KEY = "hahahaha"          # 替换为你的 service_role 密钥
 
 # 初始化 Supabase 客户端
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_SERVICE_KEY)

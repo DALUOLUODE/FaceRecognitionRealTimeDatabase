@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825c5f2b-9fe9-4c67-a504-393bf0917d39" name="更改" comment="哈哈" />
+    <list default="true" id="825c5f2b-9fe9-4c67-a504-393bf0917d39" name="更改" comment="哈哈1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DALUOLUODE"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/DALUOLUODE/FaceRecognitionRealTimeDatabase.git",
@@ -79,7 +85,7 @@
       <workItem from="1740976925718" duration="13493000" />
       <workItem from="1741048225905" duration="10376000" />
       <workItem from="1741137784831" duration="4549000" />
-      <workItem from="1741239720014" duration="363000" />
+      <workItem from="1741239720014" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="哈哈">
       <option name="closed" value="true" />
@@ -89,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741240028844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="哈哈1">
+      <option name="closed" value="true" />
+      <created>1741240141902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741240141902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="哈哈" />
-    <option name="LAST_COMMIT_MESSAGE" value="哈哈" />
+    <MESSAGE value="哈哈1" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈哈1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$AddDatatoDatabase.coverage" NAME="AddDatatoDatabase 覆盖结果" MODIFIED="1741056501855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
