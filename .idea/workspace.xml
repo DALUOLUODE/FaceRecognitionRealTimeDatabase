@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825c5f2b-9fe9-4c67-a504-393bf0917d39" name="更改" comment="哈哈1" />
+    <list default="true" id="825c5f2b-9fe9-4c67-a504-393bf0917d39" name="更改" comment="哈哈 final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddDatatoDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodeGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_upload_and_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoded.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/encoded.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition_attendance.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DALUOLUODE"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DALUOLUODE&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DALUOLUODE/FaceRecognitionRealTimeDatabase.git",
-    "accountId": "b2c81bbe-395d-495b-b8fb-bbe923d2ad00"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DALUOLUODE/FaceRecognitionRealTimeDatabase.git&quot;,
+    &quot;accountId&quot;: &quot;b2c81bbe-395d-495b-b8fb-bbe923d2ad00&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,24 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.AddDatatoDatabase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encodeGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AddDatatoDatabase.executor": "Run",
+    "Python.data_insertion.executor": "Run",
+    "Python.encodeGenerator.executor": "Run",
+    "Python.face_recognition_attendance.executor": "Run",
+    "Python.image_upload_and_encoding.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/wangy/PycharmProjects/FaceRecognitionRealTimeDatabase/Images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wangy\PycharmProjects\FaceRecognitionRealTimeDatabase\Images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,6 +101,8 @@
       <workItem from="1741048225905" duration="10376000" />
       <workItem from="1741137784831" duration="4549000" />
       <workItem from="1741239720014" duration="437000" />
+      <workItem from="1741240967141" duration="240000" />
+      <workItem from="1741341622146" duration="2583000" />
     </task>
     <task id="LOCAL-00001" summary="哈哈">
       <option name="closed" value="true" />
@@ -103,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741240141902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="哈哈 final">
+      <option name="closed" value="true" />
+      <created>1741241088849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741241088849</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,11 +137,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="哈哈" />
     <MESSAGE value="哈哈1" />
-    <option name="LAST_COMMIT_MESSAGE" value="哈哈1" />
+    <MESSAGE value="哈哈 final" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈哈 final" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$data_insertion.coverage" NAME="data_insertion 覆盖结果" MODIFIED="1741344217300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$AddDatatoDatabase.coverage" NAME="AddDatatoDatabase 覆盖结果" MODIFIED="1741056501855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$main.coverage" NAME="main 覆盖结果" MODIFIED="1741141541064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$face_recognition_attendance.coverage" NAME="face_recognition_attendance 覆盖结果" MODIFIED="1741344259267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$image_upload_and_encoding.coverage" NAME="image_upload_and_encoding 覆盖结果" MODIFIED="1741344124353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FaceRecognitionRealTimeDatabase$encodeGenerator.coverage" NAME="encodeGenerator 覆盖结果" MODIFIED="1740990423773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
